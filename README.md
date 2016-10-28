@@ -7,3 +7,8 @@ Functions include:
 - Adds 
 - Removes
 - Searches books
+
+Includes:
+BookStock.Java - Driver class
+BookClass - book object
+BookStock.txt - stock file

@@ -9,6 +9,6 @@ Functions include:
 - Searches books
 
 Includes:
-BookStock.Java - Driver class
-BookClass - book object
-BookStock.txt - stock file
+BookStock.Java - Driver class\n
+BookClass - book object\n
+BookStock.txt - stock file\n

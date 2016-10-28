@@ -1,0 +1,15 @@
+Harry Potter, 28, 20
+Dynasty Warriors, 15.55, 10
+Lord of The Rings, 39.65, 9
+Burger Club Book, 44.14, 15
+A simple book, 9.0, 44.0
+Banana bread, 44.67, 3.0
+A guide to the galaxy, 44.2, 4.0
+Programming book extreme, 69.0, 42.0
+Samurai Jack, 45.0, 2.0
+Science for dummies, 58.93, 22.0
+How to go home, 89.55, 8.0
+Lord of the flies, 33.42, 20.0
+Lock and Key, 45.95, 13.0
+2a, 15.0, 1.0
+Lol, 15.0, 2.0

@@ -8,7 +8,7 @@ Functions include:
 - Removes
 - Searches books
 
-####Includes:
+Project contains:
 - BookStock.Java - Driver class
 - BookClass - book object
 - BookStock.txt - stock file

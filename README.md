@@ -8,7 +8,7 @@ Functions include:
 - Removes
 - Searches books
 
-Includes:
-BookStock.Java - Driver class\n
-BookClass - book object\n
-BookStock.txt - stock file\n
+####Includes:
+- BookStock.Java - Driver class
+- BookClass - book object
+- BookStock.txt - stock file
